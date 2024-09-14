@@ -61,15 +61,19 @@
 ---
 if you are using the desktop version of telegram, you have to enable ```enable webview inpescting``` Here's the tutorial:
 1. Enter the ```Setting``` menu
+   
 ![alt text](Images/image-2.png)
 
 2. select the ```Advanced``` menu
+   
 ![alt text](Images/image-3.png)
 
 3. Scroll down bottom and select ```Experimental Settings```
+   
 ![alt text](Images/image-4.png)
 
 4. then select ```Enable Webview Inspecting```
+   
 ![alt text](Images/image-5.png)
 ---
 
