@@ -1,0 +1,25 @@
+AccountList = [
+    {   "Name" : "Kadal Buntung!",
+        "Authorization": "query_id=",  # Token
+        "UserAgent": "userAgent",
+        "Proxy": {
+            "http": "https://38.154.227.167:5868",
+            "https": "//xjcpwrpm:baca4cmkmj18@38.154.227.167:5868/"
+            } 
+    },
+   # {
+   #     "Name" : "Account 2",
+   #     "Authorization": "query_id=", 
+   #     "UserAgent": "User-Agent",
+   #     "Proxy": None  # Set to None for No proxy for this account
+   # }
+]
+
+
+'''The proxy should be set like this,
+
+  # "Proxy": {
+  #   "https": "https://10.10.1.10:3128",
+  #   "http": "http://user:pass@10.10.1.10:3128/"
+  
+I only use free proxies so I use any method to try it to make it work well''' 

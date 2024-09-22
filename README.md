@@ -11,7 +11,7 @@
 |:-----------------------------------:|:----:|
 | Multi Account                       |✅|
 | Clik per Second          |✅|
-| Proxy          | Soon|
+| Proxy          |✅|
 | Daily Login          | Soon|
 | Open Box          | Soon|
 
